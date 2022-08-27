@@ -1,39 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "projeto do gabriel",
-      "budget": "12344",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "MProject",
-      "budget": "15000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "teste",
-      "budget": "123",
-      "category": {
-        "id": "1",
-        "name": "Infrastructure"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
