@@ -2,13 +2,20 @@
   "projects": [
     {
       "name": "testing f",
-      "budget": "12323",
+      "budget": "1244",
       "category": {
         "id": "2",
         "name": "Development"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 12,
+      "services": [
+        {
+          "name": "my new service",
+          "cost": "12",
+          "description": "asdfasdf",
+          "id": "9fa31423-c8fb-4a01-ab8a-e20c008bec6e"
+        }
+      ],
       "id": 1
     }
   ],
